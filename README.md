@@ -25,7 +25,7 @@ Ces pages doivent respecter les exigences suivantes :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/restaurant-reservation-system.git
+   git clone [https://github.com/MirinkaU1/Cheickpoint-Express.js.git]
    ```
 
 2. Accédez au répertoire du projet :
@@ -80,6 +80,9 @@ module.exports = jourOuvrable;
 
 3. **Contactez-nous** (`contact.ejs`)
    - Formulaire de contact pour les utilisateurs.
+  
+4. **Page d'erreur** (`error.ejs`)
+   - Empêche d'accéder au site à une certaine condition.
 
 ### Styles CSS
 
